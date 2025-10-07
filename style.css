@@ -1,0 +1,108 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+body {
+  background-color: lightblue;
+}
+.header {
+  text-align: center;
+  margin-top: 5px;
+  background: linear-gradient(to top, teal, transparent);
+  width: 100%;
+  height: 80px;
+  padding: 0px;
+  font-size: 60px;
+  font-family: Sans-Serif;
+  color: darkblue;
+}
+p {
+  font-style: Sans-Serif;
+}
+.container {
+  width: 100%;
+  margin: 0px auto;
+}
+.menuul{
+  list-style: none;
+  padding: 0px;
+  margin: 0pc;
+}
+ul li a {
+  background-color: teal;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  font-size: 30px;
+  width: 31.7%;
+  height: 60px;
+  margin-right: 0.5%;
+  margin-left: 1%;
+  margin-top: 0px;
+  padding: 0px;
+  float: left;
+  line-height: 60px;
+}
+a:hover {
+  background-color: goldenrod;
+  color: darkblue;
+}
+.lobby a{
+  width: 100%;
+  margin: 0px auto;
+  background-color: teal;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  font-size: 35px;
+  width: 98%;
+  height: 60px;
+  margin: 1%;
+  margin-top: 10px;
+  padding: 0px;
+  float: left;
+  line-height: 60px;
+}
+.lobby a:hover {
+  background-color: goldenrod;
+  color: darkblue;
+}
+.pengertian {
+  text-align: justify;
+  background-color: white;
+  width: 80%;
+  margin: 5% 5%;
+  padding: 5%;
+  margin-top: 145px;
+  font-family: Sans-Serif;
+}
+.identitas {
+  text-align: justify;
+  background-color: azure;
+  width: 80%;
+  margin: 5% 5%;
+  padding: 5%;
+  margin-top: 15px;
+  font-family: Sans-Serif;
+}
+.gambar {
+  width: 90%;
+  margin: 1px auto;
+  display: block;
+  margin-top: 10px;
+}
+.meme {
+  width: 70%;
+  margin: 1px auto;
+  display: block;
+  margin-top: 10px;
+}
+.deskripsi {
+  font-family: Times New Roman;
+  font-size: 10px;
+  text-align: center;
+  color: grey;
+}
+h4 {
+  background-color: lightyellow;
+}
